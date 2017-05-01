@@ -6,4 +6,7 @@
  * https://zapier.com/zapbook/salesforce/wordpress/
  * 
  
+ |--------|--------|
+ |Fields | Api Name |
+ 
  
